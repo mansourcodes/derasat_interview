@@ -17,5 +17,9 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
+Route::get('/download', function () {
+    return view('home');
+})->name('download');
+
 
 Route::resource('event-reg', App\Http\Controllers\eventRegController::class)->only('index', 'store', 'show');
