@@ -15,6 +15,10 @@
                     <div class="border-top mx-auto my-3" style="max-width: 5rem;"></div>
 
                     <p>Loves to chat about typography, you have been warned.</p>
+
+                    <a class="btn btn-outline-primary" href="{{ route('speakers') }}/a">
+                        Read Profile <i class="bi-chevron-right small ms-1"></i>
+                    </a>
                 </div>
                 <!-- End Team -->
             </div>
@@ -31,6 +35,10 @@
                     <div class="border-top mx-auto my-3" style="max-width: 5rem;"></div>
 
                     <p>Multidisciplinary. Drinks too much coffee. Likes sentence fragments.</p>
+
+                    <a class="btn btn-outline-primary" href="{{ route('speakers') }}/a">
+                        Read Profile <i class="bi-chevron-right small ms-1"></i>
+                    </a>
                 </div>
                 <!-- End Team -->
             </div>
@@ -47,6 +55,10 @@
                     <div class="border-top mx-auto my-3" style="max-width: 5rem;"></div>
 
                     <p>Loves to chat about typography, you have been warned.</p>
+
+                    <a class="btn btn-outline-primary" href="{{ route('speakers') }}/a">
+                        Read Profile <i class="bi-chevron-right small ms-1"></i>
+                    </a>
                 </div>
                 <!-- End Team -->
             </div>
@@ -63,6 +75,10 @@
                     <div class="border-top mx-auto my-3" style="max-width: 5rem;"></div>
 
                     <p>Behind every great project is a great Google Slides deck.</p>
+
+                    <a class="btn btn-outline-primary" href="{{ route('speakers') }}/a">
+                        Read Profile <i class="bi-chevron-right small ms-1"></i>
+                    </a>
                 </div>
                 <!-- End Team -->
             </div>
@@ -79,6 +95,10 @@
                     <div class="border-top mx-auto my-3" style="max-width: 5rem;"></div>
 
                     <p>Design swashbuckler. Trader of stonks. Will work for snacks.</p>
+
+                    <a class="btn btn-outline-primary" href="{{ route('speakers') }}/a">
+                        Read Profile <i class="bi-chevron-right small ms-1"></i>
+                    </a>
                 </div>
                 <!-- End Team -->
             </div>
@@ -95,6 +115,10 @@
                     <div class="border-top mx-auto my-3" style="max-width: 5rem;"></div>
 
                     <p>Loves to chat about typography, you have been warned.</p>
+
+                    <a class="btn btn-outline-primary" href="{{ route('speakers') }}/a">
+                        Read Profile <i class="bi-chevron-right small ms-1"></i>
+                    </a>
                 </div>
                 <!-- End Team -->
             </div>
