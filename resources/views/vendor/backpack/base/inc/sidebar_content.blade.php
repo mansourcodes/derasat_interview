@@ -3,3 +3,4 @@
 
 <li class="nav-item"><a class="nav-link" href="{{ backpack_url('user') }}"><i class="nav-icon la la-question"></i> Users</a></li>
 <li class="nav-item"><a class="nav-link" href="{{ backpack_url('event-reg') }}"><i class="nav-icon la la-question"></i> Event regs</a></li>
+<li class='nav-item'><a class='nav-link' href='{{ backpack_url('page') }}'><i class='nav-icon la la-file-o'></i> <span>Pages</span></a></li>

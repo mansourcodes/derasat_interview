@@ -72,7 +72,7 @@
     <!-- ========== end MAIN CONTENT ========== -->
 
 
-    @include('components.footer')
+    {{-- @include('components.footer') --}}
 
     <!-- ========== SECONDARY CONTENTS ========== -->
 
@@ -195,7 +195,7 @@
         });
     </script>
 
-    @include('components.pixel')
+    {{-- @include('components.pixel') --}}
     @include('components.help-pixel')
 
 </body>
