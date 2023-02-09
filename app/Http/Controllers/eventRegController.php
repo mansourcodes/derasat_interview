@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\EventRegRequest;
 use App\Models\EventReg;
-use App\Http\Requests\eventRegStoreRequest;
 use Illuminate\Http\Request;
 
 class eventRegController extends Controller
@@ -23,13 +23,17 @@ class eventRegController extends Controller
      * @param \App\Http\Requests\eventRegStoreRequest $request
      * @return \Illuminate\Http\Response
      */
-    public function store(eventRegStoreRequest $request)
+    public function store(EventRegRequest $request)
     {
+
         $eventReg = EventReg::create($request->validated());
 
         $request->session()->flash('eventReg.id', $eventReg->id);
 
-        return redirect()->route('eventReg.index');
+        return redirect()->route(
+            'reg.show',
+            $eventReg->id
+        );
     }
 
     /**
@@ -37,8 +41,10 @@ class eventRegController extends Controller
      * @param \App\eventReg $eventReg
      * @return \Illuminate\Http\Response
      */
-    public function show(Request $request, eventReg $eventReg)
+    public function show($id)
     {
+        $eventReg = EventReg::findOrFail($id);
+
         return view('eventReg.show', compact('eventReg'));
     }
 }

@@ -42,11 +42,11 @@
             <!-- End FancyBox -->
 
             <!-- Background Shapes -->
-            <div class="position-absolute zi-n1" style="top: -6rem; left: -6rem;">
-                <img src="{{ asset('theme/svg/logos/1.png') }}" alt="SVG">
+            <div class="position-absolute zi-n1" style="top: -2rem; left: -6rem;">
+                <img src="{{ asset('theme/svg/logos/1.png') }}" alt="SVG" style="width: 200px">
             </div>
             <div class="position-absolute zi-n1" style="bottom: -6rem; right: -7rem;">
-                <img src="{{ asset('theme/svg/logos/2.png') }}" alt="SVG">
+                <img src="{{ asset('theme/svg/logos/2.png') }}" alt="SVG" style="width: 200px">
             </div>
             <!-- End Background Shapes -->
         </div>

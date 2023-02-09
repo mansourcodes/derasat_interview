@@ -9,6 +9,8 @@
                 @include('components.hero')
                 @include('components.summary')
 
+                @include('components.faq')
+
 
             </div>
         </div>

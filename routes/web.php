@@ -18,7 +18,7 @@ Route::get('/', function () {
 })->name('home');
 
 Route::get('/buy-ticket', function () {
-    return view('home');
+    return view('form');
 })->name('buy-ticket');
 
 Route::get('/speakers', function () {
@@ -33,4 +33,4 @@ Route::get('/speakers/b', function () {
 });
 
 
-Route::resource('event-reg', App\Http\Controllers\eventRegController::class)->only('index', 'store', 'show');
+Route::resource('reg', App\Http\Controllers\eventRegController::class)->only('store', 'show');

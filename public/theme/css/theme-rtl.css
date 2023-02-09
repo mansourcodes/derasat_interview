@@ -4817,7 +4817,7 @@ fieldset:disabled .btn {
     }
 }
 .accordion-button:not(.collapsed) {
-    color: #412f70;
+    color: #007cbb;
     background-color: rgba(97, 70, 167, 0.1);
     box-shadow: inset 0 -0.0625rem 0 rgba(22, 22, 22, 0.1);
 }

@@ -1,0 +1,269 @@
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-BlackItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-BlackItalic.woff") format("woff");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Black.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Bold.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-BlackItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-BlackItalic.woff") format("woff");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Black.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraLight.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraLight.woff") format("woff");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraLightItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraLightItalic.woff") format("woff");
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraBold.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Light.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraBoldItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraBoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-BoldItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraBoldItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraBoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Light.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraLight.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraLight.woff") format("woff");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Bold.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraBold.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-ExtraLightItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-ExtraLightItalic.woff") format("woff");
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-BoldItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-RegularItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-RegularItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-MediumItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-MediumItalic.woff") format("woff");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Regular.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-SemiBold.woff2") format("woff2"),
+        url("../fonts/somar/Somar-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Medium.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-MediumItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-MediumItalic.woff") format("woff");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-LightItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-LightItalic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-LightItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-LightItalic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Regular.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-RegularItalic.woff2") format("woff2"),
+        url("../fonts/somar/Somar-RegularItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-SemiBold.woff2") format("woff2"),
+        url("../fonts/somar/Somar-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Somar";
+    src: url("../fonts/somar/Somar-Medium.woff2") format("woff2"),
+        url("../fonts/somar/Somar-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
