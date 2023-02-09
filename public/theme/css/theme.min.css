@@ -4070,7 +4070,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
     color: initial;
-    background-color: rgba(97, 70, 167, 0.1);
+    background-color: rgb(208 235 255);
 }
 .nav-fill .nav-item,
 .nav-fill > .nav-link {
@@ -4812,7 +4812,7 @@ fieldset:disabled .btn {
 }
 .accordion-button:not(.collapsed) {
     color: #007cbb;
-    background-color: rgba(97, 70, 167, 0.1);
+    background-color: rgb(208 235 255);
     box-shadow: inset 0 -0.0625rem 0 rgba(22, 22, 22, 0.1);
 }
 .accordion-button:not(.collapsed)::after {
@@ -8228,7 +8228,7 @@ fieldset:disabled .btn {
     background-color: rgba(22, 22, 22, 0.1) !important;
 }
 .bg-soft-primary-light {
-    background-color: rgba(97, 70, 167, 0.1) !important;
+    background-color: rgb(208 235 255) !important;
 }
 @media (min-width: 576px) {
     .float-sm-start {
@@ -13285,7 +13285,7 @@ input[type="number"] {
     }
 }
 .accordion-collapse {
-    background-color: rgba(97, 70, 167, 0.1);
+    background-color: rgb(208 235 255);
 }
 .accordion-flush .accordion-item {
     border-width: 0;
@@ -13993,7 +13993,7 @@ input[type="number"] {
     background: linear-gradient(
         to right,
         rgba(255, 255, 255, 0) 53%,
-        rgba(97, 70, 167, 0.1) 53%
+        rgb(208 235 255) 53%
     );
 }
 @media (max-width: 767.98px) {
@@ -14004,7 +14004,7 @@ input[type="number"] {
         background: linear-gradient(
             to right,
             rgba(255, 255, 255, 0) 0,
-            rgba(97, 70, 167, 0.1) 0
+            rgb(208 235 255) 0
         );
     }
 }
@@ -14027,7 +14027,7 @@ input[type="number"] {
     background: linear-gradient(
         to left,
         rgba(255, 255, 255, 0) 22%,
-        rgba(97, 70, 167, 0.1) 22%
+        rgb(208 235 255) 22%
     );
     content: "";
 }
@@ -14037,7 +14037,7 @@ input[type="number"] {
         background: linear-gradient(
             to right,
             rgba(255, 255, 255, 0) 0,
-            rgba(97, 70, 167, 0.1) 0
+            rgb(208 235 255) 0
         );
     }
 }
@@ -14060,7 +14060,7 @@ input[type="number"] {
     background: linear-gradient(
         to right,
         rgba(255, 255, 255, 0) 22%,
-        rgba(97, 70, 167, 0.1) 22%
+        rgb(208 235 255) 22%
     );
     content: "";
 }
@@ -14070,7 +14070,7 @@ input[type="number"] {
         background: linear-gradient(
             to right,
             rgba(255, 255, 255, 0) 0,
-            rgba(97, 70, 167, 0.1) 0
+            rgb(208 235 255) 0
         );
     }
 }
@@ -14087,7 +14087,7 @@ input[type="number"] {
     left: -3rem;
     width: 100%;
     height: 100%;
-    background-color: rgba(97, 70, 167, 0.1);
+    background-color: rgb(208 235 255);
     content: "";
 }
 .blockquote {
@@ -16810,7 +16810,7 @@ input[type="number"] {
     z-index: 9999;
     width: 2.875rem;
     height: 2.875rem;
-    background-color: rgba(97, 70, 167, 0.1);
+    background-color: rgb(208 235 255);
     color: #007cbb;
     font-size: 1rem;
     opacity: 0.5;
@@ -17189,7 +17189,7 @@ input[type="number"] {
     background-color: #f8fafd;
 }
 .nav-pills .nav-link.active:hover {
-    background-color: rgba(97, 70, 167, 0.1);
+    background-color: rgb(208 235 255);
 }
 .nav-pills .nav-link.active:hover,
 .nav-pills .show > .nav-link:hover {

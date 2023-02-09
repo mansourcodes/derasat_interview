@@ -43,7 +43,7 @@
                             aria-labelledby="headingTwoEg2" data-bs-parent="#accordionFAQEg2">
                             <div class="accordion-body">
                                 If you'd like a refund please reach out to us at <a
-                                    href="#">themes@getbootstrap.com</a>. If you need technical help with the
+                                    href="#">support@derasat.org</a>. If you need technical help with the
                                 theme before a refund please reach out to the seller first and they can get in touch
                                 with us if they're unable to resolve the issue.
                             </div>
@@ -85,7 +85,7 @@
                                 table below for a quick look at the difference between the them, as well as a few
                                 examples of ways each license could be used. If you'd like more of the nitty-gritty
                                 details you can find them below and always feel free to reach out with any questions you
-                                have at <a href="#">themes@getbootstrap.com</a>.
+                                have at <a href="#">support@derasat.org</a>.
                             </div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
 
             <div class="card-footer bg-soft-warning text-center">
                 <p class="mb-0">Still have questions?</p>
-                <a class="link" href="../page-contacts.html">Contact our friendly support team <i
+                <a class="link" href="#">Contact our friendly support team <i
                         class="bi-chevron-right small ms-1"></i></a>
             </div>
         </div>
