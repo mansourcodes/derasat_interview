@@ -17,9 +17,9 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
-Route::get('/download', function () {
+Route::get('/buy-ticket', function () {
     return view('home');
-})->name('download');
+})->name('buy-ticket');
 
 
 Route::resource('event-reg', App\Http\Controllers\eventRegController::class)->only('index', 'store', 'show');

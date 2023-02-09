@@ -27,8 +27,8 @@
 
                     <!-- Menu -->
                     <li class="hs-has-sub-menu nav-item">
-                        <a id="MegaMenu_1" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button"
-                            aria-expanded="false">Sell</a>
+                        <a id="MegaMenu_1" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#"
+                            role="button" aria-expanded="false">Sell</a>
 
                         <!-- Mega Menu -->
                         <div class="hs-sub-menu dropdown-menu" aria-labelledby="MegaMenu_1" style="min-width: 12rem;">
@@ -42,8 +42,8 @@
 
                     <!-- Menu -->
                     <li class="hs-has-sub-menu nav-item">
-                        <a id="MegaMenu_2" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button"
-                            aria-expanded="false">Manage</a>
+                        <a id="MegaMenu_2" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#"
+                            role="button" aria-expanded="false">Manage</a>
 
                         <!-- Mega Menu -->
                         <div class="hs-sub-menu dropdown-menu" aria-labelledby="MegaMenu_2" style="min-width: 12rem;">
@@ -57,8 +57,8 @@
 
                     <!-- Menu -->
                     <li class="hs-has-sub-menu nav-item">
-                        <a id="MegaMenu_3" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button"
-                            aria-expanded="false">Engage</a>
+                        <a id="MegaMenu_3" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#"
+                            role="button" aria-expanded="false">Engage</a>
 
                         <!-- Mega Menu -->
                         <div class="hs-sub-menu dropdown-menu" aria-labelledby="MegaMenu_3" style="min-width: 12rem;">
@@ -71,8 +71,8 @@
 
                     <!-- Menu -->
                     <li class="hs-has-sub-menu nav-item">
-                        <a id="MegaMenu_4" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button"
-                            aria-expanded="false">Support</a>
+                        <a id="MegaMenu_4" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#"
+                            role="button" aria-expanded="false">Support</a>
 
                         <!-- Mega Menu -->
                         <div class="hs-sub-menu dropdown-menu" aria-labelledby="MegaMenu_4" style="min-width: 12rem;">
@@ -87,8 +87,8 @@
 
                     <!-- Menu -->
                     <li class="hs-has-sub-menu nav-item">
-                        <a id="MegaMenu_4" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button"
-                            aria-expanded="false">Pricing</a>
+                        <a id="MegaMenu_4" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#"
+                            role="button" aria-expanded="false">Pricing</a>
 
                         <!-- Mega Menu -->
                         <div class="hs-sub-menu dropdown-menu" aria-labelledby="MegaMenu_4" style="min-width: 12rem;">
@@ -112,8 +112,8 @@
                     <li class="nav-item">
 
 
-                        <a class=" btn btn-primary" href="{{ route('download') }}">
-                            <i class="bi-download me-1"></i> Download
+                        <a class=" btn btn-primary" href="{{ route('buy-ticket') }}">
+                            <i class="bi-download me-1"></i> Buy Tickets
                         </a>
                     </li>
                     <!-- End Log in -->

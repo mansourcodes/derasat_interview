@@ -22,8 +22,8 @@
                         data-bs-toggle="dropdown" aria-expanded="false">
                         <span class="d-flex align-items-center">
                             <img class="avatar avatar-xss avatar-circle me-2"
-                                src="{{ asset('theme/vendor/flag-icon-css/flags/1x1/us.svg') }}"
-                                alt="Image description" width="16" />
+                                src="{{ asset('theme/vendor/flag-icon-css/flags/1x1/us.svg') }}" alt="Image description"
+                                width="16" />
                             <span>English (US)</span>
                         </span>
                     </button>
@@ -31,8 +31,8 @@
                     <div class="dropdown-menu">
                         <a class="dropdown-item d-flex align-items-center active" href="#">
                             <img class="avatar avatar-xss avatar-circle me-2"
-                                src="{{ asset('theme/vendor/flag-icon-css/flags/1x1/us.svg') }}"
-                                alt="Image description" width="16" />
+                                src="{{ asset('theme/vendor/flag-icon-css/flags/1x1/us.svg') }}" alt="Image description"
+                                width="16" />
                             <span>English (US)</span>
                         </a>
                         <a class="dropdown-item d-flex align-items-center" href="#">
@@ -121,14 +121,14 @@
                 <!-- List -->
                 <ul class="list-unstyled list-py-1 mb-0">
                     <ul class="list-unstyled list-py-1 mb-0">
-                        <li><a class="link-sm link-light" href="{{ route('download') }}">
+                        <li><a class="link-sm link-light" href="{{ route('buy-ticket') }}">
                                 Apple Store<i class="bi-box-arrow-up-right ms-1"></i>
                             </a></li>
-                        <li><a class="link-sm link-light" href="{{ route('download') }}">
+                        <li><a class="link-sm link-light" href="{{ route('buy-ticket') }}">
                                 Google Play<i class="bi-box-arrow-up-right ms-1"></i>
                             </a></li>
 
-                        <li><a class="link-sm link-light" href="{{ route('download') }}">
+                        <li><a class="link-sm link-light" href="{{ route('buy-ticket') }}">
                                 Web <span class="badge bg-light text-dark rounded-pill ms-2">soon</span>
                             </a></li>
                     </ul>
