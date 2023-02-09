@@ -1,14 +1,20 @@
 <!-- Hero -->
-<div class="overflow-hidden">
+<div class="">
     <div class="container content-space-1 content-space-md-2">
         <div class="row justify-content-sm-center">
             <div class="col-sm-10 col-md-8 col-lg-7">
                 <!-- Heading -->
                 <div class="text-center mb-7">
-                    <h1 class="display-4 text-primary">Our mission is to make work <span
-                            class="text-warning">meaningful</span></h1>
-                    <p class="lead">We cut through complexity, empowering businesses to challenge the status quo,
-                        create unlimited opportunities – and change the world.</p>
+                    <img class="w-100" src="{{ asset('theme/svg/logos/fourm_logo.svg') }}" alt="Image Description">
+
+                    <h1 class="display-4 text-primary"
+                        style="
+                    text-transform: uppercase;
+                    font-size: 3rem;
+                ">
+                        The role of women in policy and think tanks</h1>
+                    <p class="lead">Examining the Underrepresentation of Women in Think Tanks: Addressing the
+                        Imbalance for a More Equitable Future</p>
                 </div>
                 <!-- End Heading -->
             </div>
@@ -18,8 +24,8 @@
 
         <div class="position-relative mb-5">
             <!-- FancyBox -->
-            <a href="https://www.youtube.com/watch?v=0qisGSwZym4" role="button" data-fslightbox="youtube-video">
-                <img class="img-fluid" src="../assets/img/1920x1080/img1.jpg" alt="Image Description">
+            <a href="https://www.youtube.com/" role="button" data-fslightbox="youtube-video">
+                <img class="img-fluid" src="{{ asset('theme/svg/logos/hero.jpeg') }}" alt="Image Description">
 
                 <div class="position-absolute top-50 start-50 translate-middle">
                     <!-- Fancybox -->
@@ -29,9 +35,6 @@
                                 <i class="bi-play-circle-fill"></i>
                             </span>
                         </div>
-                        <div class="flex-grow-1 ms-3">
-                            <span class="text-white">Watch our story</span>
-                        </div>
                     </div>
                     <!-- End Fancybox -->
                 </div>
@@ -40,17 +43,17 @@
 
             <!-- Background Shapes -->
             <div class="position-absolute zi-n1" style="top: -6rem; left: -6rem;">
-                <img src="../assets/svg/components/shape-1.svg" alt="SVG" width="500" style="width: 12rem;">
+                <img src="{{ asset('theme/svg/logos/1.png') }}" alt="SVG">
             </div>
             <div class="position-absolute zi-n1" style="bottom: -6rem; right: -7rem;">
-                <img src="../assets/svg/components/shape-7.svg" alt="SVG" width="250">
+                <img src="{{ asset('theme/svg/logos/2.png') }}" alt="SVG">
             </div>
             <!-- End Background Shapes -->
         </div>
 
         <div class="text-center">
-            <a class="btn btn-outline-primary" href="../page-careers.html">
-                Join us | Explore roles <i class="bi-chevron-right small ms-1"></i>
+            <a class="btn btn-outline-primary" href="{{ route('speakers') }}">
+                Explore Speakers <i class="bi-chevron-right small ms-1"></i>
             </a>
         </div>
     </div>

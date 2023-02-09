@@ -21,5 +21,16 @@ Route::get('/buy-ticket', function () {
     return view('home');
 })->name('buy-ticket');
 
+Route::get('/speakers', function () {
+    return view('speakers');
+})->name('speakers');
+
+Route::get('/speakers/a', function () {
+    return view('speaker-a');
+});
+Route::get('/speakers/b', function () {
+    return view('speaker-a');
+});
+
 
 Route::resource('event-reg', App\Http\Controllers\eventRegController::class)->only('index', 'store', 'show');
