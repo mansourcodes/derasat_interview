@@ -1,0 +1,13 @@
+created:
+    - app/Http/Controllers/eventRegController.php
+    - database/factories/EventRegFactory.php
+    - database/migrations/2023_02_09_053722_create_event_regs_table.php
+    - app/Models/eventReg.php
+    - tests/Feature/Http/Controllers/eventRegControllerTest.php
+    - app/Http/Requests/eventRegStoreRequest.php
+    - resources/views/eventReg/index.blade.php
+    - resources/views/eventReg/show.blade.php
+updated:
+    - routes/web.php
+models:
+    eventReg: { name: 'string:50 nullable', email: 'string:50 nullable', phone: 'string:50 nullable', timestampstz: timestampstz }
