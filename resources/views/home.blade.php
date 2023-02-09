@@ -14,8 +14,7 @@
                             </div>
                         @endif
 
-                        {{ __('Redirect to:') }}
-                        <a href="safiapp.com">safiapp.com</a>
+                        Hello
                     </div>
                 </div>
             </div>

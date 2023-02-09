@@ -8,11 +8,9 @@
 
         <span class="navbar-brand mb-0 h1 text-primary">
             <a href="{{ route('home') }}">
-                {{ $info_name }}
+                {{ config('app.name', 'Laravel') }}
             </a>
         </span>
-
-        @livewire('cart-counter')
 
 
     </div>
